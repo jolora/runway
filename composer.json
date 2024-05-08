@@ -33,7 +33,7 @@
             ]
         },
         "download-dist": {
-            "url": "https://github.com/statamic-rad-pack/runway/releases/download/{$version}/dist.tar.gz",
+            "url": "https://github.com/jolora/runway/releases/download/{$version}/dist.tar.gz",
             "path": "dist"
         }
     },
